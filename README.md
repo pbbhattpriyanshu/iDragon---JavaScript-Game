@@ -1,53 +1,40 @@
-🐉 Dragon Rider: Save the Kid!
-A fun, fast-paced endless runner game inspired by the Chrome offline dinosaur game — but with a fiery twist! You're a dragon riding a bike, racing through treacherous terrain. But wait — kids are in the way! Dodge them to keep them safe.
+# 🐉 Dragon Rider: Guardian Dash
 
-🚴‍♂️ Gameplay
-Character: A dragon riding a bike.
+**Dragon Rider: Guardian Dash** is a fast-paced, pixel-art endless runner game where you play as a dragon on a motorcycle, racing to protect children by skillfully avoiding them as obstacles. Inspired by the simplicity of the Chrome offline dinosaur game, this version adds character, charm, and challenge.
 
-Goal: Ride as far as possible without hitting any kids.
+## 🚀 Overview
 
-Mechanics:
+In a world where chaos reigns, a heroic dragon takes to the roads — not to cause havoc, but to **protect the innocent**. Your mission: Ride endlessly, dodge obstacles (kids), and keep them out of harm's way.
 
-Press Space or tap to jump.
+### 🎯 Objectives
 
-Avoid obstacles (the kids) to keep them safe.
+- Ride as far as possible without hitting any children.
+- Test your reflexes as the speed gradually increases.
+- Beat your high score and challenge your friends.
 
-Game speed increases over time, making it more challenging.
+## 🕹️ How to Play
 
-🎮 Features
-Simple one-button controls.
+| Action | Key / Control |
+|--------|----------------|
+| Jump   | `Spacebar` or Tap (on mobile) |
 
-Smooth animations and increasing difficulty.
+- Avoid running into children — they are obstacles to avoid **for their safety**.
+- Game ends on collision.
+- Score increases with distance.
 
-Classic pixel-art style for that retro feel.
+## ✨ Features
 
-Kid-friendly (despite being about dodging kids!).
+- 🐲 Unique concept: A dragon on a motorcycle!
+- 🎨 Retro-style pixel art graphics.
+- 📈 Increasing difficulty with smooth acceleration.
+- 🔊 Optional sound effects for immersive gameplay.
+- 🌐 Works offline — play anytime, anywhere.
 
-🛠️ Installation
-Clone the repository and open the index.html in your browser:
+## 📦 Installation
 
-bash
-Copy
-Edit
+Clone the repository and launch the game in your browser:
+
+```bash
 git clone https://github.com/your-username/dragon-rider-game.git
 cd dragon-rider-game
-open index.html  # or double-click the file
-🧑‍💻 Tech Stack
-HTML5 Canvas
-
-JavaScript (Vanilla)
-
-CSS (Optional for styling UI)
-
-📷 Screenshots
-(Insert screenshots or GIFs of the game here)
-
-📄 License
-This game is open-source and available under the MIT License.
-
-🙌 Acknowledgements
-Inspired by Chrome Dino Game.
-
-Sprites designed using Piskel.
-
-Sound effects from freesound.org.
+open index.html
